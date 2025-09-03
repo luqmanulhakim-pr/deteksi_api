@@ -45,9 +45,6 @@ Pastikan Anda memiliki file model `model.pt` yang telah dilatih dan letakkan di 
 Buka file `dashboard_server.py` dan sesuaikan variabel `CAMERA_IDS` sesuai dengan indeks kamera yang terhubung ke komputer Anda. Secara default, sistem akan mencoba mengakses kamera dengan indeks `0` dan `1`.
 
 ```python
-# z:\Kuliah\Semester Pendek\Computer Vision\deteksi_api\dashboard_server.py
-
-# ...
 # Inisialisasi dua kamera: 0 (Ruang 1), 1 (Ruang 2)
 CAMERA_IDS = ['0', '1']
 # ...
