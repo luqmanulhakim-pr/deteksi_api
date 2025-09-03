@@ -58,7 +58,7 @@ states = {
 }
 
 HISTORY_MAX_LEN = 3
-JPEG_QUALITY = 80  # antara 60-85 biasanya seimbang
+JPEG_QUALITY = 80  # antara 60-85 biasanya seimban
 REOPEN_DELAY = 0.5
 STREAM_LOOP_SLEEP = 0.001
 INFER_TARGET_FPS = 5  # batas maksimum frekuensi inference per kamera
